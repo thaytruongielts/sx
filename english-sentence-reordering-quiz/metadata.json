@@ -1,0 +1,5 @@
+{
+  "name": "English Sentence Reordering Quiz",
+  "description": "An interactive quiz application to practice sentence reordering questions for the 10th-grade English entrance exam. Users can answer multiple-choice questions, receive immediate feedback, and track their score.",
+  "requestFramePermissions": []
+}
